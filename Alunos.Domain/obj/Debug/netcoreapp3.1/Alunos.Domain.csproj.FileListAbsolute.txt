@@ -1,0 +1,11 @@
+C:\Users\PICHAU\source\repos\Alunos.Domain\bin\Debug\netcoreapp3.1\Alunos.Domain.deps.json
+C:\Users\PICHAU\source\repos\Alunos.Domain\bin\Debug\netcoreapp3.1\Alunos.Domain.dll
+C:\Users\PICHAU\source\repos\Alunos.Domain\bin\Debug\netcoreapp3.1\Alunos.Domain.pdb
+C:\Users\PICHAU\source\repos\Alunos.Domain\obj\Debug\netcoreapp3.1\Alunos.Domain.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\Alunos.Domain\obj\Debug\netcoreapp3.1\Alunos.Domain.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\Alunos.Domain\obj\Debug\netcoreapp3.1\Alunos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\Alunos.Domain\obj\Debug\netcoreapp3.1\Alunos.Domain.dll
+C:\Users\PICHAU\source\repos\Alunos.Domain\obj\Debug\netcoreapp3.1\Alunos.Domain.pdb
+C:\Users\PICHAU\source\repos\Alunos.Domain\bin\Debug\netcoreapp3.1\Alunos.Domain.runtimeconfig.json
+C:\Users\PICHAU\source\repos\Alunos.Domain\bin\Debug\netcoreapp3.1\Alunos.Domain.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\Alunos.Domain\obj\Debug\netcoreapp3.1\Alunos.Domain.genruntimeconfig.cache
